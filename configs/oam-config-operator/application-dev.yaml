@@ -1,6 +1,0 @@
-operator:
-  application:
-    name: oam-config-operator
-
-persistence:
-  url: file:///path/to/local/pv/directory
